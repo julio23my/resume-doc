@@ -1,0 +1,298 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Julio Moreno Yanes",
+    "label": "Programmer",
+    "image": "",
+    "email": "julio23m.y@gmail.com",
+    "phone": "+584242096421",
+    "url": "http://richardhendricks.example.com",
+    "summary": "Systems Engineer with work experience of more than 9 years in ICT. With fast learning skills and a great enthusiasm for new technologies. I specialize in the Python programming language and its various frameworks in which I am currently growing in different languages and libraries.With a huge background on different technologies and branches of the ICT like cybersecurity, devops, Frontend (using react and react native), Geospace databases, software arquitecture and scrapping data.",
+    "location": {
+      "address": "El retiro",
+      "postalCode": "1204",
+      "city": "San Antonio de los Altos",
+      "countryCode": "VE",
+      "region": "Miranda",
+      "country": "Venezuela"
+    },
+    "profiles": [
+      {
+        "network": "Linkedin",
+        "username": "juliomorenoyanes",
+        "url": "https://www.linkedin.com/in/juliomorenoyanes/"
+      },
+      {
+        "network": "Github",
+        "username": "julio23my",
+        "url": "https://github.com/julio23my"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Freelancer",
+      "location": "Remote",
+      "description": "Developer as a freelancer contract",
+      "position": "Fullstack Developer",
+      "url": "",
+      "startDate": "2019-01-10",
+      "endDate": "",
+      "summary": "I work as a freelancer since the begin of my career as a developer using different technologies mostly using Python and React. I work in different projects likes bank applications, inventory apps, buy and selling products with billing, and ia agents for automation responses and data gathering using differents tecnologies",
+      "highlights": [
+        "Build complex applications for bussiness and banks using Python and React",
+        "Deploy applications in servers and clouds, mostly with docker",
+        "Optimized process and performance of systems",
+        "Scrapping data from websites",
+      ]
+    },
+    {
+      "name": "Fisotec Solutions",
+      "location": "Alcaudete, Spain (Remote)",
+      "description": "company with over 15 years of experience offering technological solutions and operational consulting related to the development of GIS and infrastructure for smart cities",
+      "position": "Senior Python Developer",
+      "url": "https://fisotecsolutions.com/",
+      "startDate": "2024-12-05",
+      "endDate": "2025-05-16",
+      "summary": "In this project I have been able to work with Qgis and geolocation databases to implement a service for different electrical and water projects in differents towns at Spain",
+      "highlights": [
+        "Create endpoints using native Python that modify the logic and presents information with performance",
+        "Create reports and statistics with big data inside the projects using Postgis and sql queries",
+        "Optimized process and performance of systems",
+        "Develop UI with PyQT5",
+        "Refactor code and data flows",
+        "Manage and implement geospace databases with Postgis and Postgresql"
+      ]
+    },
+     {
+      "name": "Servicepad",
+      "location": "Texas, United States (Remote)",
+      "description": "Smart contract systems solutions to modernize, streamline, and automate solutions for manufacturers, builders, dealers and RTO management companies to create extreme efficiency.",
+      "position": "Senior Backend Developer",
+      "url": "https://servicepad.com",
+      "startDate": "2024-04-02",
+      "endDate": "2024-11-01",
+      "summary": "Inside my job as a Senior Backend developer, I have to create efficiency endpoints and data manipulations using Python (Flask) and Java to provide to the Frontend developers all the logic that is needed. ",
+      "highlights": [
+        "Arquitecture changes and creating data models for a extends used",
+        "Queries and ORM queries for present data and filled documents for esings",
+        "Refactor code and data flows",
+        "Flask and Java implementation as microservice",
+        "Creating PDF to be config, filled and signed",
+        "Docker, commands and pipelines configurations"
+      ]
+    },
+    {
+      "name": "Unow Solutions (Contractor in Veridas)",
+      "location": "Navarra, Spain (Remote)",
+      "description": "The company that i work for was veridas through unow solutions. In veridas the main objective was create with the purpose of guaranteeing people's right to use their real identities in the digital and physical world. ",
+      "position": "Senior Fullstack Developer",
+      "url": "https://veridas.com/",
+      "startDate": "2023-01-09",
+      "endDate": "2024-03-18",
+      "summary": "In Veridas my main objective as a Senior Fullstack developer was created a demo for clients using the best technologies of Python (Django) and React. Also i have to created all the CI/CD and automatization testing inside this demo for clientes",
+      "highlights": [
+        "Implement Selenium and cypress for web application testing",
+        "Refactor code and data flows",
+        "Innovates with the frontend development using the best arquitecture and practices implementing SOLID, functional components and styled components in the native way without libraries",
+        "Creating commands with python to execute pipelines",
+        "Creating Docker containers for the projects and deploys",
+        "Interact with native components like Camera",
+        "Update the Django project for new and better arquitecture"
+      ]
+    },
+    {
+      "name": "Servicepad",
+      "location": "Texas, United States (Remote)",
+      "description": "Smart contract systems solutions to modernize, streamline, and automate solutions for manufacturers, builders, dealers and RTO management companies to create extreme efficiency.",
+      "position": "Senior Backend Developer",
+      "url": "https://servicepad.com",
+      "startDate": "2022-03-10",
+      "endDate": "2023-01-05",
+      "summary": "Inside my job as a Senior Backend developer, I have to create efficiency endpoints and data manipulations using Python (Flask) and Java to provide to the Frontend developers all the logic that is needed. ",
+      "highlights": [
+        "Arquitecture changes and creating data models for a extends used",
+        "Queries and ORM queries for present data and filled documents for esings",
+        "Refactor code and data flows",
+        "Flask implementation as microservice",
+        "Creating PDF to be config, filled and signed",
+        "Docker, commands and pipelines configurations",
+        "Unit testing with Pytest"
+      ]
+    },
+  {
+      "name": "Fisotec Solutions",
+      "location": "Alcaudete, Spain (Remote)",
+      "description": "company with over 15 years of experience offering technological solutions and operational consulting related to the development of GIS and infrastructure for smart cities",
+      "position": "Semi Senior Python Developer",
+      "url": "https://fisotecsolutions.com/",
+      "startDate": "2021-04-05",
+      "endDate": "2022-03-10",
+      "summary": "In this project I have been able to work with Qgis and geolocation databases to implement a service for different electrical and water projects in differents towns at Spain",
+      "highlights": [
+        "Create endpoints using native Python that modify the logic and presents information with performance",
+        "Optimized process and performance of systems",
+        "Develop UI with PyQT5",
+        "Refactor code and data flows",
+        "Manage and implement geospace databases with Postgis and Postgresql",
+        "Create API REST for a angular frontend"
+      ]
+    },
+    {
+      "name": "Junar",
+      "location": "Santiago, Chile (Remote)",
+      "description": "Data engine that provides software companies focus on the frontend side a easy way to create endpoints and data structures.",
+      "position": "Junior Backend Developer",
+      "url": "https://www.junar.com",
+      "startDate": "2021-01-20",
+      "endDate": "2021-04-05",
+      "summary": "About my job in this company was creating many data endpoints and scrapping tools using Python and Django functionalities for the best performance",
+      "highlights": [
+          "Coding using VM of Vagrant",
+          "Django implementations",
+          "Data arquitecture for services",
+          "Unit testing"
+      ]
+    },
+    {
+      "name": "Sybven",
+      "location": "Caracas, Venezuela",
+      "description": "Develop bank application across all the countries of LATAM",
+      "position": "Junior Frontend Developer",
+      "url": "https://sybven.com/",
+      "startDate": "2020-08-01",
+      "endDate": "2021-01-27",
+      "summary": "I have to create screens and flows inside bank applications",
+      "highlights": [
+          "UI/UX implementation",
+          "JSX Development",
+          "Cybersecurity focus for data protection",
+          "Unit testing",
+          "React native coding"
+      ]
+    },
+    {
+      "name": "Soluciones Trisoft",
+      "location": "Caracas, Venezuela",
+      "description": "Develop of hospital and payroll systems that can manage any bussiness and clinical flows",
+      "position": "Junior Fullstack Developer",
+      "url": "https://solutionstrisoft.com/",
+      "startDate": "2018-03-07",
+      "endDate": "2020-03-15",
+      "summary": "In this job i have to migrate a visual basic 6 system to django and react tecnologies using the existing logic and flows to get a update web application and client server application",
+      "highlights": [
+          "Translate code and logic to new tecnologies",
+          "React development",
+          "Cybersecurity focus for data protection",
+          "Unit testing",
+          "Creating different views and process using Microsoft SQL"
+      ]
+    },
+
+  ],
+  "volunteer": [
+    {
+      "organization": "IVIC (institution venezolano de investigaciones cientificas)",
+      "position": "Teacher",
+      "url": "https://ivic.gob.ve/",
+      "startDate": "2016-03-01",
+      "endDate": "2017-08-22",
+      "summary": "Teaching uses of tecnologies and networks management for investigation personal",
+      "highlights": [
+        "Delivery knowledgment of cybersecurity",
+        "Teach linux basics and advance to comun users",
+        "Creating a LinuxOS flavor to teach with flows of practices"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universidad Bicentenaria de Aragua (UBA)",
+      "url": "https://uba.edu.ve/",
+      "area": "University",
+      "studyType": "System Engineer",
+      "startDate": "2014-09-01",
+      "endDate": "2020-08-05",
+      "score": "16",
+      "courses": [
+      ]
+    }
+  ],
+  "awards": [
+
+  ],
+  "publications": [
+
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript"
+      ]
+    },
+    {
+      "name": "Compression",
+      "level": "Master",
+      "keywords": [
+        "Mpeg",
+        "MP4",
+        "GIF"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Erlich Bachman",
+      "reference": "It is my pleasure to recommend Richard, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
+    }
+  ],
+  "projects": [
+    {
+      "name": "Miss Direction",
+      "description": "A mapping engine that misguides you",
+      "highlights": [
+        "Won award at AIHacks 2016",
+        "Built by all women team of newbie programmers",
+        "Using modern technologies such as GoogleMaps, Chrome Extension and Javascript"
+      ],
+      "keywords": [
+        "GoogleMaps",
+        "Chrome Extension",
+        "Javascript"
+      ],
+      "startDate": "2016-08-24",
+      "endDate": "2016-08-24",
+      "url": "http://missdirection.example.com",
+      "roles": [
+        "Team lead",
+        "Designer"
+      ],
+      "entity": "Smoogle",
+      "type": "application"
+    }
+  ],
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/sample.resume.json",
+    "version": "v1.0.0",
+    "lastModified": "2017-12-24T15:53:00"
+  }
+}
