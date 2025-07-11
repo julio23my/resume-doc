@@ -225,69 +225,121 @@
 
   ],
   "skills": [
-    {
-      "name": "Web Development",
-      "level": "Master",
+    
+{
+      "name": "Backend Developer",
+      "level": "Senior",
+      "keywords": [
+        "Javascript",
+        "Django",
+        "Django Rest Framework",
+        "Flask",
+        "Fastapi",
+        "Nest.js",
+        "Nodejs",
+        "Python",
+        "API Rest",
+        "Sockets",
+        "Google app scripts",
+        "JupyterNotebooks",
+        "Docker",
+        "SQL",
+        "No SQL",
+        "Postgresql",
+        "Redis",
+        "Celery",
+        "Mail gun",
+        "Pytest",
+        "Unit testing",
+        "Selenium"
+      ]
+    },
+{
+      "name": "Frontend development",
+      "level": "Senior",
       "keywords": [
         "HTML",
         "CSS",
-        "Javascript"
+        "Javascript",
+        "Django",
+        "Python",
+        "HTMLX",
+        "API Rest",
+        "Sockets",
+        "React",
+        "Functional components",
+        "Styled components",
+        "XML",
+        "CSS3",
+        "Router",
+        "Git"
+
       ]
     },
     {
-      "name": "Compression",
-      "level": "Master",
+      "name": "Devops",
+      "level": "Semi Senior",
       "keywords": [
-        "Mpeg",
-        "MP4",
-        "GIF"
+        "Docker",
+        "Postgresql",
+        "Jenkins",
+        "CI/CD",
+        "Gitlab",
+        "GitHub",
+        "Linux",
+        "Kubernetes",
+        "Server implementation"
+   
+
       ]
-    }
+    },
   ],
   "languages": [
     {
-      "language": "English",
+      "language": "Spanish",
       "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "B-2"
     }
   ],
   "interests": [
     {
-      "name": "Wildlife",
+      "name": "Reading",
       "keywords": [
-        "Ferrets",
-        "Unicorns"
+        "Books",
+        "Comics",
+        "Manga",
+        "Tech books",
+        "Articles"
       ]
     }
   ],
   "references": [
     {
-      "name": "Erlich Bachman",
-      "reference": "It is my pleasure to recommend Richard, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
+      "name": null,
+      "reference": null
     }
   ],
   "projects": [
     {
-      "name": "Miss Direction",
-      "description": "A mapping engine that misguides you",
+      "name": "",
+      "description": "",
       "highlights": [
-        "Won award at AIHacks 2016",
-        "Built by all women team of newbie programmers",
-        "Using modern technologies such as GoogleMaps, Chrome Extension and Javascript"
+        
       ],
       "keywords": [
-        "GoogleMaps",
-        "Chrome Extension",
-        "Javascript"
+       
       ],
       "startDate": "2016-08-24",
       "endDate": "2016-08-24",
-      "url": "http://missdirection.example.com",
+      "url": "",
       "roles": [
-        "Team lead",
-        "Designer"
+        
       ],
-      "entity": "Smoogle",
-      "type": "application"
+      "entity": "",
+      "type": ""
     }
   ],
   "meta": {
