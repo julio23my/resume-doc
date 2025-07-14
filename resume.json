@@ -6,7 +6,7 @@
     "image": "",
     "email": "julio23m.y@gmail.com",
     "phone": "+584242096421",
-    "url": "http://richardhendricks.example.com",
+    "url": "",
     "summary": "Systems Engineer with work experience of more than 9 years in ICT. With fast learning skills and a great enthusiasm for new technologies. I specialize in the Python programming language and its various frameworks in which I am currently growing in different languages and libraries.With a huge background on different technologies and branches of the ICT like cybersecurity, devops, Frontend (using react and react native), Geospace databases, software arquitecture and scrapping data.",
     "location": {
       "address": "El retiro",
@@ -43,7 +43,7 @@
         "Build complex applications for bussiness and banks using Python and React",
         "Deploy applications in servers and clouds, mostly with docker",
         "Optimized process and performance of systems",
-        "Scrapping data from websites",
+        "Scrapping data from websites"
       ]
     },
     {
@@ -64,7 +64,7 @@
         "Manage and implement geospace databases with Postgis and Postgresql"
       ]
     },
-     {
+    {
       "name": "Servicepad",
       "location": "Texas, United States (Remote)",
       "description": "Smart contract systems solutions to modernize, streamline, and automate solutions for manufacturers, builders, dealers and RTO management companies to create extreme efficiency.",
@@ -120,7 +120,7 @@
         "Unit testing with Pytest"
       ]
     },
-  {
+    {
       "name": "Fisotec Solutions",
       "location": "Alcaudete, Spain (Remote)",
       "description": "company with over 15 years of experience offering technological solutions and operational consulting related to the development of GIS and infrastructure for smart cities",
@@ -148,10 +148,10 @@
       "endDate": "2021-04-05",
       "summary": "About my job in this company was creating many data endpoints and scrapping tools using Python and Django functionalities for the best performance",
       "highlights": [
-          "Coding using VM of Vagrant",
-          "Django implementations",
-          "Data arquitecture for services",
-          "Unit testing"
+        "Coding using VM of Vagrant",
+        "Django implementations",
+        "Data arquitecture for services",
+        "Unit testing"
       ]
     },
     {
@@ -164,11 +164,11 @@
       "endDate": "2021-01-27",
       "summary": "I have to create screens and flows inside bank applications",
       "highlights": [
-          "UI/UX implementation",
-          "JSX Development",
-          "Cybersecurity focus for data protection",
-          "Unit testing",
-          "React native coding"
+        "UI/UX implementation",
+        "JSX Development",
+        "Cybersecurity focus for data protection",
+        "Unit testing",
+        "React native coding"
       ]
     },
     {
@@ -181,14 +181,13 @@
       "endDate": "2020-03-15",
       "summary": "In this job i have to migrate a visual basic 6 system to django and react tecnologies using the existing logic and flows to get a update web application and client server application",
       "highlights": [
-          "Translate code and logic to new tecnologies",
-          "React development",
-          "Cybersecurity focus for data protection",
-          "Unit testing",
-          "Creating different views and process using Microsoft SQL"
+        "Translate code and logic to new tecnologies",
+        "React development",
+        "Cybersecurity focus for data protection",
+        "Unit testing",
+        "Creating different views and process using Microsoft SQL"
       ]
-    },
-
+    }
   ],
   "volunteer": [
     {
@@ -214,19 +213,11 @@
       "startDate": "2014-09-01",
       "endDate": "2020-08-05",
       "score": "16",
-      "courses": [
-      ]
+      "courses": []
     }
   ],
-  "awards": [
-
-  ],
-  "publications": [
-
-  ],
   "skills": [
-    
-{
+    {
       "name": "Backend Developer",
       "level": "Senior",
       "keywords": [
@@ -254,7 +245,7 @@
         "Selenium"
       ]
     },
-{
+    {
       "name": "Frontend development",
       "level": "Senior",
       "keywords": [
@@ -273,7 +264,6 @@
         "CSS3",
         "Router",
         "Git"
-
       ]
     },
     {
@@ -289,10 +279,8 @@
         "Linux",
         "Kubernetes",
         "Server implementation"
-   
-
       ]
-    },
+    }
   ],
   "languages": [
     {
@@ -301,7 +289,7 @@
     },
     {
       "language": "English",
-      "fluency": "B-2"
+      "fluency": "Intermediate"
     }
   ],
   "interests": [
@@ -314,32 +302,6 @@
         "Tech books",
         "Articles"
       ]
-    }
-  ],
-  "references": [
-    {
-      "name": null,
-      "reference": null
-    }
-  ],
-  "projects": [
-    {
-      "name": "",
-      "description": "",
-      "highlights": [
-        
-      ],
-      "keywords": [
-       
-      ],
-      "startDate": "2016-08-24",
-      "endDate": "2016-08-24",
-      "url": "",
-      "roles": [
-        
-      ],
-      "entity": "",
-      "type": ""
     }
   ],
   "meta": {
